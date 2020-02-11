@@ -32,7 +32,7 @@ CREATE TABLE `user` (
   `name` varchar(35) NOT NULL,
   `fname` varchar(35) NOT NULL,
   `mname` varchar(35) NOT NULL,
-  `dob` date NOT NULL,
+  `dob` varchar(35) NOT NULL,
   `mobno` int(12) NOT NULL,
   `email` varchar(35) NOT NULL,
   `addline` varchar(35) NOT NULL,
