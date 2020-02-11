@@ -9,4 +9,8 @@ public class DbHelper {
     void fetchCred(int uid) {
 
     }
+
+    void viewDetail(int uid) {
+
+    }
 }
