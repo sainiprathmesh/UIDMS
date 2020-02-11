@@ -6,8 +6,8 @@ public class DbHelper {
 
     }
 
-    void fetchCred(int uid) {
-
+    boolean fetchCred(int uid, String password) {
+        return false;
     }
 
     void viewDetail(int uid) {
